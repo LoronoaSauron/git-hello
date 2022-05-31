@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "test git集成!" );
+        System.out.println( "集成完美运行!" );
     }
 }
